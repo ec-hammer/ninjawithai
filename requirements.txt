@@ -1,0 +1,9 @@
+requirements.txt
+pyserial==3.5
+Pillow==10.0.0
+sqlite3
+RPi.GPIO==0.7.0
+adafruit-circuitpython-pn532==1.4.8
+adafruit-circuitpython-busdevice==5.2.3
+luma.core==1.28.0
+luma.oled==3.12.0
